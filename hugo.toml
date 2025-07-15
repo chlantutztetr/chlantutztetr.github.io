@@ -1,0 +1,4 @@
+baseURL = 'https://chlantutztetr.github.io/'
+languageCode = 'en-us'
+title = 'chlants bs'
+theme="black"
